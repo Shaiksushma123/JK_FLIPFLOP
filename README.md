@@ -1,4 +1,4 @@
-![image](https://github.com/Shaiksushma123/JK_FLIPFLOP/assets/159005642/b51383ba-61ba-40b2-87f4-0d395d80c08a)# JK_FLIPFLOP
+#JK_FLIPFLOP
 ![image](https://github.com/RESMIRNAIR/JK_FLIPFLOP/assets/154305926/094e9d55-5f30-4984-90b9-dd51d5297974)
 # Circuit Diagram
 ![image](https://github.com/RESMIRNAIR/JK_FLIPFLOP/assets/154305926/5b973ee8-9ee2-402d-8cba-1adfa2e4d5f2)
